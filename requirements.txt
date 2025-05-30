@@ -6,3 +6,5 @@ lxml==4.9.3
 Flask
 redis==5.0.1
 pydantic==2.5.0
+websockets>=12.0  # Updated version requirement
+python-dotenv==1.0.0
